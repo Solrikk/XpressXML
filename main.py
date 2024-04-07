@@ -73,6 +73,6 @@ async def upload_file(file: UploadFile = File(...)):
     with open(file_location, "wb") as file_object:
         file_object.write(file.file.read())
 
-    server_url = "https://xmlurl.replit.app"
+    server_url = "https://YOURURL.com.app"
     file_url = f"{server_url}/uploaded_files/{file.filename}"
     return {"url": file_url}
