@@ -1,8 +1,8 @@
 ## XpressXML
 
-### XpressXML is an application developed based on the FastAPI framework, which allows users to upload XML files. Users can easily upload their XML files through a convenient interface and receive a link to access the uploaded files for further submission or processing.
+### XpressXML is a small application built on the FastAPI framework that allows users to upload XML/YML/GML files and theoretically any files available on your computer to your server through a convenient interface. Afterward, the user can obtain a link to access the uploaded files for further sending or processing.
 
-#### XpressXML — это приложение разработанное на базе ефраемворка FastAPI, которое позволяет пользователям загружать XML-файлы. Пользователи могут легко загружать свои XML-файлы через удобный интерфейс и получать ссылку для доступа к загруженным файлам для дальшейшей отправки или обработки.
+#### XpressXML — это небольшое приложение разработанное на базе фраемворка FastAPI, которое позволяет пользователям загружать через удобный интерфейс XML/YML/GML-файлы, а в теории и любые фаайлы которые есть у вас на компьютере на ваш сервер, после этого пользователь сможет получить ссылку для доступа к загруженным файлам для дальшейшей отправки или обработки.
 
 ## Features
 - Upload XML files
